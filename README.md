@@ -6,4 +6,4 @@
  3. Perceptron
  
  All were coded and tested on the Titanic Dataset.
- Also includes some exploratory data analysis done in R on a yelp dataset
+ Also includes some exploratory data analysis done in R on a yelp dataset.
